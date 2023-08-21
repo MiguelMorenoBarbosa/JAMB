@@ -21,6 +21,9 @@
         <a href="/cadastros/cadastrar">
           <button class="btn btn-primary my-2 my-sm-0"; id= "meu-botao" type="submit" style="margin-right: 15px">Cadastro de Animais</button>
         </a>
+        <a href="/sobre">
+          <button class="btn btn-primary my-2 my-sm-0"; id= "meu-botao" type="submit" style="margin-right: 15px">Sobre</button>
+        </a>
       </div>
    
 

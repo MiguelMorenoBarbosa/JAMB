@@ -113,5 +113,8 @@
 #tabela {
   width: 375px;
 }
+#sobre {
+  justify-content: center;
+}
 
 

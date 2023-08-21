@@ -20,7 +20,7 @@ return new class extends Migration
             $table->string('sexo');
             $table->string('porte');
             $table->string('sobre');
-            $table->string('');
+            $table->string('arquivo');
             $table->timestamps();
         });
     }

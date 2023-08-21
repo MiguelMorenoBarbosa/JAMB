@@ -14,7 +14,7 @@
             </p>
 
     <div style="display:flex; flex-direction: row">
-        <a class="navbar-brand" href="/adocao">
+        <a class="navbar-brand" href="/sobre">
             <div class="col-sm-4" id="botoes" style="display:flex; flex-direction: row">
                 <p class="h4 text-start" style="color: white; margin-left: 40px">Sobre as adoções</p>
             </div>

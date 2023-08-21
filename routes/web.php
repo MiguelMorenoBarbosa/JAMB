@@ -27,6 +27,10 @@ Route::get('/formulário', function () {
 
 Auth::routes();
 
+Route::get('/sobre', function () {
+    return view('sistema.sobre');
+});
+
 /*Route::get('/cadastro', function () {
     return view('sistema.cadastro');
 });
